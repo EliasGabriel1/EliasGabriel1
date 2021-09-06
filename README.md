@@ -18,7 +18,7 @@
   <img align="center" alt="elias-WP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
   <img align="right" width="220px" alt="Rafa-yoda" src="https://i.postimg.cc/L5ZBr2DG/Whats-App-Image-2021-09-06-at-12-48-26-removebg-preview.png">
 </div>
-  
+  <hr/>
   <div> 
   <a href="https://www.instagram.com/eliasgahh/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://twitter.com/EliasGahh" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
