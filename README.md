@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente sou estágiario na Agência Auaha
 - 🌱 Meu foco é me aprimorar no front-end
-- ⚡ fato engraçado: Já troquei de área de atuação 2 vezes por necessidade, e agora estágio por desejo
+- ⚡ Não sou ninguém!
 
 <div>
   <a href="https://github.com/EliasGabriel1">
