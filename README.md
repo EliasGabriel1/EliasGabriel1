@@ -1,6 +1,6 @@
 ## Olá, Eu sou o Elias Gabriel 👋
 
-- 🔭 Atualmente sou estágiario na Agência Auaha
+- 🔭 Instrutor na @?
 - 🌱 Meu foco é me aprimorar no front-end
 - ⚡ Não sou ninguém!
 
