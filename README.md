@@ -16,7 +16,7 @@
   <img align="center" alt="elias-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="elias-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="elias-WP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
-  <a href="https://github.com/EliasGabriel1/Portfolio"> <img align="right" width="220px" alt="Elias-avatar" src="https://i.postimg.cc/L5ZBr2DG/Whats-App-Image-2021-09-06-at-12-48-26-removebg-preview.png"></a>
+  <a href="https://eliasgabriel1.github.io/Portfolio/"> <img align="right" width="220px" alt="Elias-avatar" src="https://i.postimg.cc/L5ZBr2DG/Whats-App-Image-2021-09-06-at-12-48-26-removebg-preview.png"></a>
 </div>
   <hr/>
   <div> 
