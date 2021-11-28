@@ -14,7 +14,7 @@
   <img align="center" alt="elias-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="elias-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="elias-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="elias-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <a href="https://github.com/EliasGabriel1/LearningMorePython"><img align="center" alt="elias-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> </a>
   <img align="center" alt="elias-WP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
   <a href="https://eliasgabriel1.github.io/Portfolio/"> <img align="right" width="220px" alt="Elias-avatar" src="https://i.postimg.cc/L5ZBr2DG/Whats-App-Image-2021-09-06-at-12-48-26-removebg-preview.png"></a>
 </div>
