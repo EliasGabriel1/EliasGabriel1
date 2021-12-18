@@ -1,5 +1,6 @@
 ## Olá, Eu sou o Elias Gabriel 👋
 
+- 🦁 Gryffindor❤️
 - 🔭 Instrutor na @He4rtDevs
 - 🌱 Meu foco é me aprimorar no front-end
 - ⚡ Não sou ninguém!
