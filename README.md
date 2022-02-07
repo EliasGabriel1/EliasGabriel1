@@ -12,7 +12,7 @@
 <div style="display: inline_block"><br>
   <a href="https://github.com/EliasGabriel1/tela-de-captacao"><img align="center" alt="elias-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> </a>
   <img align="center" alt="elias-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <a href=" https://template-3-roan.vercel.app/"><img align="center" alt="elias-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
+  <a href=" https://template-3-roan.vercel.app/"> <img align="center" alt="elias-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
   <a href="https://teste-dado-apenas-com-html-e-css.vercel.app/"> <img align="center" alt="elias-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
   <a href="https://github.com/EliasGabriel1/LearningMorePython"><img align="center" alt="elias-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> </a>
   <img align="center" alt="elias-WP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
