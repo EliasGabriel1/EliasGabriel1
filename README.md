@@ -1,7 +1,7 @@
 ## Olá, Eu sou o Elias Gabriel 👋
 
 - 🦁❤️ Gryffindor
-- 🌱 Meu foco é me aprimorar no front-end
+- 🌱 Meu foco é me aprimorar mais do que ontem
 - ⚡ Não sou ninguém!
 
 <div>
